@@ -5,7 +5,7 @@ client = MlflowClient()
 
 # Define the model name and version
 model_name = "diabetes-rf"
-model_version = 3  # Replace with the specific version number you want to transition
+model_version = 1  # Replace with the specific version number you want to transition
 
 # Transition the model version to a new stage
 new_stage = "Production"  # Possible values: "None", "Staging", "Production", "Archived"
