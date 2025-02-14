@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/af44e81f8d044990ade80fec445e0414/artifacts
+end_time: 1739548737743
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: af44e81f8d044990ade80fec445e0414
+run_name: debonair-bass-63
+run_uuid: af44e81f8d044990ade80fec445e0414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548737704
+status: 3
+tags: []
+user_id: Shashank Rai

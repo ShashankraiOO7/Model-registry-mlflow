@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/c75d51bb4e7743d48ba3fd5ef4905945/artifacts
+end_time: 1739548737987
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: c75d51bb4e7743d48ba3fd5ef4905945
+run_name: bustling-ram-79
+run_uuid: c75d51bb4e7743d48ba3fd5ef4905945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548737948
+status: 3
+tags: []
+user_id: Shashank Rai

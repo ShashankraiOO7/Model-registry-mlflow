@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/0ceef9170e734610b2f2312aed503f75/artifacts
+end_time: 1739548738410
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: 0ceef9170e734610b2f2312aed503f75
+run_name: invincible-wasp-71
+run_uuid: 0ceef9170e734610b2f2312aed503f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548738376
+status: 3
+tags: []
+user_id: Shashank Rai

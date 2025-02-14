@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/540e5465d8344b2cb77aed6cfdd5d55c/artifacts
+end_time: 1739548738076
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: 540e5465d8344b2cb77aed6cfdd5d55c
+run_name: gaudy-ox-564
+run_uuid: 540e5465d8344b2cb77aed6cfdd5d55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548738043
+status: 3
+tags: []
+user_id: Shashank Rai

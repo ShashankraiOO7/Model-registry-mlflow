@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/1c21670da08b4cdcbae0bb314b1d7adf/artifacts
+end_time: 1739548737939
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: 1c21670da08b4cdcbae0bb314b1d7adf
+run_name: polite-slug-117
+run_uuid: 1c21670da08b4cdcbae0bb314b1d7adf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548737899
+status: 3
+tags: []
+user_id: Shashank Rai

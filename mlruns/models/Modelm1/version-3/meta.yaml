@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739548872635
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1739548999154
+name: Modelm1
+run_id: 25220038d1a0460781ebfb5eecb7d725
+run_link: ''
+source: models:/Modelm1/2
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/25220038d1a0460781ebfb5eecb7d725/artifacts/random_forest
+user_id: null
+version: 3

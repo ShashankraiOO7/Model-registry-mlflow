@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/86786ea7103547efbdfb9b89974e3392/artifacts
+end_time: 1739548738360
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: 86786ea7103547efbdfb9b89974e3392
+run_name: fearless-fowl-824
+run_uuid: 86786ea7103547efbdfb9b89974e3392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548738327
+status: 3
+tags: []
+user_id: Shashank Rai

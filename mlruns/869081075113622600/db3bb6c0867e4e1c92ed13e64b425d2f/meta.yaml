@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/db3bb6c0867e4e1c92ed13e64b425d2f/artifacts
+end_time: 1739548738122
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: db3bb6c0867e4e1c92ed13e64b425d2f
+run_name: intelligent-tern-312
+run_uuid: db3bb6c0867e4e1c92ed13e64b425d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548738093
+status: 3
+tags: []
+user_id: Shashank Rai

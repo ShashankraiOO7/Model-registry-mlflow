@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/31c3e7bc2ed144039c1db2e46b3ef7b6/artifacts
+end_time: 1739548738658
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: 31c3e7bc2ed144039c1db2e46b3ef7b6
+run_name: secretive-robin-525
+run_uuid: 31c3e7bc2ed144039c1db2e46b3ef7b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548738610
+status: 3
+tags: []
+user_id: Shashank Rai

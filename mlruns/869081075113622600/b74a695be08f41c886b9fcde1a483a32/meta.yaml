@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/b74a695be08f41c886b9fcde1a483a32/artifacts
+end_time: 1739548738547
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: b74a695be08f41c886b9fcde1a483a32
+run_name: crawling-boar-656
+run_uuid: b74a695be08f41c886b9fcde1a483a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548738520
+status: 3
+tags: []
+user_id: Shashank Rai

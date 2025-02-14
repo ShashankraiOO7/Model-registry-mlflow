@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600
+creation_time: 1739548725065
+experiment_id: '869081075113622600'
+last_update_time: 1739548725065
+lifecycle_stage: active
+name: diabetes-rf-hp

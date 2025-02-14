@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/7b40236faa5848bdbadacf2de99fe0ba/artifacts
+end_time: 1739548737890
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: 7b40236faa5848bdbadacf2de99fe0ba
+run_name: amusing-snake-364
+run_uuid: 7b40236faa5848bdbadacf2de99fe0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548737856
+status: 3
+tags: []
+user_id: Shashank Rai

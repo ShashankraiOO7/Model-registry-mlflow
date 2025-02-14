@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/cf5c571708144b33a15f66f48128283b/artifacts
+end_time: 1739548737695
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: cf5c571708144b33a15f66f48128283b
+run_name: hilarious-whale-54
+run_uuid: cf5c571708144b33a15f66f48128283b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548737662
+status: 3
+tags: []
+user_id: Shashank Rai

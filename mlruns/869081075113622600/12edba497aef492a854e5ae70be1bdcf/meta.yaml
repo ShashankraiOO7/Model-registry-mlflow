@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shashank%20Rai/OneDrive/Desktop/mlopps/Model-registry-mlflow/mlruns/869081075113622600/12edba497aef492a854e5ae70be1bdcf/artifacts
+end_time: 1739548738610
+entry_point_name: ''
+experiment_id: '869081075113622600'
+lifecycle_stage: active
+run_id: 12edba497aef492a854e5ae70be1bdcf
+run_name: defiant-moth-70
+run_uuid: 12edba497aef492a854e5ae70be1bdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739548738573
+status: 3
+tags: []
+user_id: Shashank Rai
